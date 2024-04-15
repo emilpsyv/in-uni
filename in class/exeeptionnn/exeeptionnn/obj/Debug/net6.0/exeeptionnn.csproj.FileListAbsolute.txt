@@ -1,0 +1,15 @@
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\obj\Debug\net6.0\exeeptionnn.csproj.AssemblyReference.cache
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\obj\Debug\net6.0\exeeptionnn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\obj\Debug\net6.0\exeeptionnn.AssemblyInfoInputs.cache
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\obj\Debug\net6.0\exeeptionnn.AssemblyInfo.cs
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\obj\Debug\net6.0\exeeptionnn.csproj.CoreCompileInputs.cache
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\bin\Debug\net6.0\exeeptionnn.exe
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\bin\Debug\net6.0\exeeptionnn.deps.json
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\bin\Debug\net6.0\exeeptionnn.runtimeconfig.json
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\bin\Debug\net6.0\exeeptionnn.dll
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\bin\Debug\net6.0\exeeptionnn.pdb
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\obj\Debug\net6.0\exeeptionnn.dll
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\obj\Debug\net6.0\refint\exeeptionnn.dll
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\obj\Debug\net6.0\exeeptionnn.pdb
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\obj\Debug\net6.0\exeeptionnn.genruntimeconfig.cache
+C:\Users\ca.r214.10\Desktop\ab106\4.8.2024\exeeptionnn\exeeptionnn\obj\Debug\net6.0\ref\exeeptionnn.dll
